@@ -1,0 +1,6 @@
+annoy
+sentence_transformers
+jupyter
+pandas
+numpy
+sklearn
